@@ -1,5 +1,5 @@
-
-    paket  berlian ;
+ 
+paket  berlian ;
 impor  java.util.* ;
 impor  java.security.* ;
 
